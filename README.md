@@ -101,7 +101,4 @@ The `visual_regression.py` module compares current application screenshots with 
 
 The `pipeline.py` script automates the build, testing, and deployment processes, ensuring continuous integration and deployment.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
